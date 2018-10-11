@@ -1,13 +1,13 @@
 PODS:
-  - Alamofire (4.7.2)
-  - Crashlytics (3.10.1):
-    - Fabric (~> 1.7.5)
-  - Fabric (1.7.6)
+  - Alamofire (4.7.3)
+  - Crashlytics (3.10.9):
+    - Fabric (~> 1.7.13)
+  - Fabric (1.7.13)
   - MagicalRecord (2.3.2):
     - MagicalRecord/Core (= 2.3.2)
   - MagicalRecord/Core (2.3.2)
-  - SnapKit (4.0.0)
-  - SwiftyJSON (4.1.0)
+  - SnapKit (4.0.1)
+  - SwiftyJSON (4.2.0)
 
 DEPENDENCIES:
   - Alamofire
@@ -27,13 +27,13 @@ SPEC REPOS:
     - SwiftyJSON
 
 SPEC CHECKSUMS:
-  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
-  Crashlytics: aee1a064cbbf99b32efa3f056a5f458d846bc8ff
-  Fabric: f8d42c893bb187326a7968b62abe55c36a987a46
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Crashlytics: 55e24fc23989680285a21cb1146578d9d18e432c
+  Fabric: 25d0963b691fc97be566392243ff0ecef5a68338
   MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
-  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
-  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
 
-PODFILE CHECKSUM: 00c28cc3c6524d953392cd1b836340ab8796bd49
+PODFILE CHECKSUM: 5c82afda87e925f85c150ee4f501d62a30073f71
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.5.3
