@@ -1,5 +1,5 @@
 # Uncomment this line to define a global platform for your project
-platform :ios, '9.3'
+platform :ios, '10.0'
 
 target 'iGov' do
   use_frameworks!
